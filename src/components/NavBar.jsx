@@ -232,7 +232,7 @@ const NavBar = () => {
             <div className="text-center mt-[30px]">
               <button className="bg-[#e94335] text-white py-2 px-4">Submit a ticket</button>
 
-              <div className="flex gap-[4.42px] justify-center mt-5 items-center">
+              <div className="flex gap-[4.43px] justify-center mt-5 items-center">
                 <MdMail className="w-[26.52px] h-[26.52]"/>
                 <a href="#" className="text-black text-[14px] font-semibold">customer.support@gv3n.cc</a>
               </div>
